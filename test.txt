@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2016-3CD2
+
+ Directory of C:\Users\ryan\Desktop\MyProject
+
+12/20/2024  04:48 PM    <DIR>          .
+12/20/2024  04:48 PM    <DIR>          ..
+12/20/2024  04:48 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  97,843,511,296 bytes free
